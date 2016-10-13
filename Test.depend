@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1466909045 source:c:\users\administrator\desktop\test.cpp
+	<cmath>
+	<string>
+	<iostream>
+
+1466930676 source:c:\users\administrator\desktop\test\test.cpp
+	<cmath>
+	<string>
+	<iostream>
+
+1466942255 source:c:\users\administrator\desktop\test\putin.cpp
+	<iostream>
+	<stdio.h>
+
+1466945415 source:c:\users\administrator\desktop\test\time.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+
+1466951036 source:c:\users\veizi\desktop\c++_test\time.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+
+1466930676 source:c:\users\veizi\desktop\c++_test\test.cpp
+	<cmath>
+	<string>
+	<iostream>
+
+1466942255 source:c:\users\veizi\desktop\c++_test\putin.cpp
+	<iostream>
+	<stdio.h>
+
