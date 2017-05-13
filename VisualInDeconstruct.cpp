@@ -15,10 +15,13 @@ class B:public A{
 public:
 	B(){cout<<"Con in B "<<endl;}
 	void show(){cout<<"Dec in B"<<endl;}
-	//~B(){show();}
+	~B(){show();}
 };
 
 int main(){
-	A a;
-	B b;
+	//A a;
+	//B b;
+	A *c=new B;
+	delete c;
+	return 0;
 }
